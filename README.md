@@ -1,2 +1,2 @@
 # BeeClassification with Microsoft Custom Vision
-Honeybee vs Bumblebee classification using Microsoft Custom Vision API calls
+Honeybee vs Bumblebee classification using Microsoft Custom Vision API calls and Keras
